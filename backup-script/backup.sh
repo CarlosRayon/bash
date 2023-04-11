@@ -1,9 +1,9 @@
 #! /bin/bash
 
 # REQUIRE
-BACKUP_DIRECTORY="/home/crayon/Downloads/backup-$(date +%d-%m-%Y)"
-MYSQL_USER="root"
-MYSQL_PASSWORD="carlos101"
+BACKUP_DIRECTORY="/home/xxxxx/Downloads/backup-$(date +%d-%m-%Y)"
+MYSQL_USER="xxxxx"
+MYSQL_PASSWORD="xxxxxx"
 
 APACHE_LOCAL_PROJECTS_DIRECTORY=/var/www/html
 APACHE_BACKUP_DIRECTORY=$BACKUP_DIRECTORY/apache
